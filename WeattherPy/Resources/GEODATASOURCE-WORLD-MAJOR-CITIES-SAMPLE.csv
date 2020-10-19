@@ -1,0 +1,251 @@
+Country Code,Country Name,Region,City,latitiude,longitude,zip/postal code
+AU,Australia,New South Wales,Dee Why,-33.75,151.3,2099
+AU,Australia,New South Wales,Earlwood,-33.95,151.1,2206
+AU,Australia,New South Wales,Port Stephens,-32.7131,152.066,2317
+AU,Australia,New South Wales,Cessnock,-32.8321,151.356,2325
+AU,Australia,New South Wales,Marrickville,-33.9032,151.152,1475
+AU,Australia,New South Wales,Blacktown,-33.7667,150.917,2148
+AU,Australia,New South Wales,Lismore,-28.8135,153.277,2480
+AU,Australia,New South Wales,Albury,-36.0748,146.924,2640
+AU,Australia,New South Wales,Sydney,-33.8679,151.207,1001
+AU,Australia,New South Wales,Coffs Harbour,-30.2963,153.114,2450
+AU,Australia,New South Wales,Dubbo,-32.243,148.605,2830
+AU,Australia,New South Wales,Auburn,-33.85,151.033,2144
+AU,Australia,Northern Territory,Alice Springs,-23.6975,133.884,2469
+AU,Australia,Queensland,Mount Isa,-20.7252,139.497,4825
+AU,Australia,Queensland,Caloundra,-26.8035,153.122,4551
+AU,Australia,Queensland,Narangba,-27.2034,152.959,4504
+AU,Australia,Queensland,Sunnybank,-27.5833,153.05,4109
+AU,Australia,Queensland,Nerang,-27.9894,153.336,4211
+AU,Australia,Queensland,Surfers Paradise,-28.0027,153.43,2360
+AU,Australia,Queensland,Forest Lake,-27.6256,152.969,4078
+AU,Australia,Queensland,Caboolture,-27.0847,152.951,4510
+AU,Australia,South Australia,Mount Gambier,-37.8318,140.779,5290
+AU,Australia,South Australia,Adelaide,-34.9287,138.599,846
+AU,Australia,Tasmania,Burnie,-41.0558,145.904,5291
+AU,Australia,Victoria,Wodonga,-36.1218,146.888,7310
+AU,Australia,Victoria,Langwarrin,-38.1667,145.167,2622
+AU,Australia,Victoria,Malvern East,-37.874,145.043,5061
+AU,Australia,Victoria,Roxburgh Park,-37.6258,144.926,3064
+AU,Australia,Victoria,Narre Warren,-38.0333,145.3,2824
+AU,Australia,Victoria,Bendigo,-36.7582,144.28,3550
+AU,Australia,Victoria,Greensborough,-37.7046,145.103,2622
+AU,Australia,Victoria,Werribee,-37.9,144.667,3030
+AU,Australia,Victoria,Point Cook,-37.9148,144.751,2614
+AU,Australia,Victoria,Deer Park,-37.7667,144.783,7140
+AU,Australia,Victoria,Essendon,-37.7667,144.917,7310
+AU,Australia,Victoria,Kew,-37.8064,145.031,2439
+AU,Australia,Victoria,Rowville,-37.9333,145.233,3178
+AU,Australia,Victoria,Moe,-38.1783,146.261,4627
+AU,Australia,Victoria,Carrum Downs,-38.0997,145.172,3197
+AU,Australia,Victoria,Mildura,-34.1855,142.163,3500
+AU,Australia,Victoria,Glenroy,-37.7,144.933,2640
+AU,Australia,Victoria,Ferntree Gully,-37.8846,145.295,3156
+AU,Australia,Victoria,Hillside,-37.8333,147.5,3037
+AU,Australia,Western Australia,Armadale,-32.1461,116.009,3143
+AU,Australia,Western Australia,Kalgoorlie,-30.7461,121.474,6430
+AU,Australia,Western Australia,Rockingham,-32.2768,115.73,4850
+AU,Australia,Western Australia,Mandurah,-32.5269,115.722,4413
+AU,Australia,Western Australia,Busselton,-33.6525,115.345,6280
+AU,Australia,Western Australia,Geraldton,-28.779,114.615,6530
+CA,Canada,Alberta,Sherwood Park,53.5168,-113.319,T8A
+CA,Canada,Alberta,Lethbridge,49.7,-112.819,T1H
+CA,Canada,Alberta,Edmonton,53.5501,-113.469,T5A
+CA,Canada,British Columbia,Burnaby,49.2664,-122.953,V3N
+CA,Canada,British Columbia,Terrace,54.5163,-128.603,V8G
+CA,Canada,British Columbia,Port Moody,49.3174,-122.897,V3H
+CA,Canada,British Columbia,Kelowna,49.8831,-119.486,V1P
+CA,Canada,British Columbia,Vernon,50.2673,-119.273,V1B
+CA,Canada,British Columbia,West Vancouver,49.3667,-123.167,V7S
+CA,Canada,British Columbia,Delta,49.144,-122.907,V4C
+CA,Canada,British Columbia,Abbotsford,49.058,-122.253,V2S
+CA,Canada,British Columbia,West End,49.2833,-123.133,V6E
+CA,Canada,British Columbia,Okanagan,50.3639,-119.35,V0E
+CA,Canada,British Columbia,Coquitlam,49.283,-122.753,V3B
+CA,Canada,British Columbia,Cranbrook,49.4999,-115.769,V1C
+CA,Canada,British Columbia,Oak Bay,48.4496,-123.303,V8R
+CA,Canada,British Columbia,Vancouver,49.2497,-123.119,V5K
+CA,Canada,Manitoba,Brandon,49.8469,-99.9531,R0K
+CA,Canada,New Brunswick,Edmundston,47.3737,-68.3251,E3V
+CA,Canada,Newfoundland and Labrador,Corner Brook,48.95,-57.952,A2H
+CA,Canada,Northwest Territories,Yellowknife,62.4541,-114.372,X1A
+CA,Canada,Nova Scotia,Cole Harbour,45.2653,-61.2603,B2V 1M6
+CA,Canada,Ontario,Waterloo,43.4668,-80.5164,N2J
+CA,Canada,Ontario,Brantford,43.1334,-80.2664,N3P
+CA,Canada,Ontario,Belleville,44.1668,-77.3828,K8N
+CA,Canada,Ontario,Windsor,42.3001,-83.0165,T2V
+CA,Canada,Ontario,Pickering,43.9001,-79.1329,L1V
+CA,Canada,Ontario,Cornwall,45.0181,-74.7281,K6H
+CA,Canada,Ontario,Greater Napanee,44.2501,-76.9494,K7R
+CA,Canada,Ontario,Prince Edward,44.0001,-77.2495,K0K
+CA,Canada,Ontario,North Bay,46.3168,-79.4663,P1A
+CA,Canada,Ontario,Milton,43.5168,-79.8829,L9E
+CA,Canada,Ontario,Sault Ste. Marie,46.5168,-84.3333,P6A
+CA,Canada,Quebec,Montreal,45.5088,-73.5878,H1B
+CA,Canada,Quebec,Amos,48.5669,-78.1162,J9T
+CA,Canada,Quebec,Rimouski,48.4488,-68.524,G5L
+CA,Canada,Quebec,Saint-Constant,45.3668,-73.5659,J5A
+CA,Canada,Quebec,Saint-Eustache,45.565,-73.9055,J7P
+CA,Canada,Quebec,Mont-Royal,45.5168,-73.6492,H2H
+CA,Canada,Quebec,Saint-Bruno-de-Montarville,45.5334,-73.3492,J3V
+CA,Canada,Quebec,Sherbrooke,45.4001,-71.8991,J1E
+CA,Canada,Quebec,Beaconsfield,45.4334,-73.8659,H9W
+CA,Canada,Quebec,Beloeil,45.5684,-73.2057,J3G
+CA,Canada,Quebec,Chambly,45.4501,-73.2825,J3L
+CA,Canada,Quebec,Longueuil,45.5312,-73.5181,J4G
+CA,Canada,Quebec,Candiac,45.3834,-73.5159,J5R 5P5
+CA,Canada,Saskatchewan,North Battleford,52.7797,-108.297,S9A
+CA,Canada,Saskatchewan,Lloydminster,53.2835,-110.002,T9V
+CA,Canada,Saskatchewan,Moose Jaw,50.4001,-105.534,S6H
+CA,Canada,Yukon,Whitehorse,60.7161,-135.054,Y1A
+DE,Germany,Bayern,Karlstadt,49.9603,9.77239,97753
+DE,Germany,Bayern,Bruckmuhl,48.2536,12.9039,14822
+DE,Germany,Bayern,Noerdlingen,48.8512,10.4887,49808
+DE,Germany,Bayern,Taufkirchen,48.4349,12.6997,79280
+DE,Germany,Bayern,Geretsried,47.8577,11.4805,82538
+DE,Germany,Bayern,Traunstein,47.8683,12.6433,79280
+DE,Germany,Bayern,Bobingen,48.2709,10.8339,73560
+DE,Germany,Bayern,Garmisch-Partenkirchen,47.4921,11.0958,82467
+DE,Germany,Berlin,Gropiusstadt,52.425,13.4667,12353
+DE,Germany,Berlin,Marienfelde,52.4187,13.3672,24242
+DE,Germany,Berlin,Moabit,52.5263,13.339,10557
+DE,Germany,Brandenburg,Strausberg,52.5786,13.8874,15344
+DE,Germany,Brandenburg,Rathenow,52.6066,12.337,14712
+DE,Germany,Hessen,Langen,49.9896,8.66852,15926
+DE,Germany,Hessen,Taunusstein,50.1499,8.15206,79280
+DE,Germany,Hessen,Kassel,51.3167,9.5,34117
+DE,Germany,Hessen,Rodgau,50.0263,8.88588,79280
+DE,Germany,Hessen,Bad Soden am Taunus,50.1408,8.50449,79280
+DE,Germany,Hessen,Giessen,50.5873,8.67554,45127
+DE,Germany,Mecklenburg-Vorpommern,Wismar,53.8931,11.4529,23952
+DE,Germany,Niedersachsen,Loxstedt,53.4667,8.65,27612
+DE,Germany,Niedersachsen,Ganderkesee,53.0333,8.53333,27777
+DE,Germany,Niedersachsen,Clausthal-Zellerfeld,51.8095,10.3382,79280
+DE,Germany,Niedersachsen,Goslar,51.9043,10.4277,38640
+DE,Germany,Nordrhein-Westfalen,Gronau,52.211,7.02238,79280
+DE,Germany,Nordrhein-Westfalen,Nettetal,51.3167,6.28333,41334
+DE,Germany,Nordrhein-Westfalen,Guetersloh,51.9069,8.37853,33330
+DE,Germany,Nordrhein-Westfalen,Bornheim,51.492,6.63293,53332
+DE,Germany,Nordrhein-Westfalen,Buende,52.1984,8.58644,32257
+DE,Germany,Nordrhein-Westfalen,Marl,51.6567,7.09038,91080
+DE,Germany,Nordrhein-Westfalen,Bergheim,51.8341,9.05061,70499
+DE,Germany,Nordrhein-Westfalen,Herzogenrath,50.8687,6.09317,52134
+DE,Germany,Nordrhein-Westfalen,Kreuztal,50.9678,7.98848,57223
+DE,Germany,Nordrhein-Westfalen,Krefeld,51.3364,6.55381,47798
+DE,Germany,Nordrhein-Westfalen,Wermelskirchen,51.1397,7.21583,42929
+DE,Germany,Nordrhein-Westfalen,Lennestadt,51.1172,8.06707,37627
+DE,Germany,Nordrhein-Westfalen,Espelkamp,52.3825,8.62127,32339
+DE,Germany,Nordrhein-Westfalen,Siegen,50.8748,8.02431,93354
+DE,Germany,Nordrhein-Westfalen,Odenthal,51.0333,7.11667,51519
+DE,Germany,Nordrhein-Westfalen,Coesfeld,51.9435,7.16809,48653
+DE,Germany,Rheinland-Pfalz,Boppard,50.2309,7.58992,56154
+DE,Germany,Rheinland-Pfalz,Sinzig,50.5438,7.24639,53489
+DE,Germany,Saarland,Dillingen,49.3556,6.72781,75428
+DE,Germany,Saarland,Schwalbach,49.3,6.81667,65307
+DE,Germany,Sachsen,Plauen,51.0278,13.7087,79280
+DE,Germany,Sachsen-Anhalt,Halberstadt,51.8956,11.0562,15757
+DE,Germany,Sachsen-Anhalt,Blankenburg,51.7902,10.9551,16359
+DE,Germany,Schleswig-Holstein,Husum,54.4858,9.05239,31632
+DE,Germany,Schleswig-Holstein,Flensburg,54.7843,9.43961,54646
+DE,Germany,Schleswig-Holstein,Kaltenkirchen,53.8329,9.9581,18556
+IN,India,Andhra Pradesh,Amudalavalasa,18.4102,83.9029,522617
+IN,India,Bihar,Pupri,26.4708,85.7031,843320
+IN,India,Bihar,Colgong,25.2633,87.2326,343040
+IN,India,Gujarat,Bhavnagar,21.7629,72.1533,364001
+IN,India,Gujarat,Harij,23.6936,71.907,532456
+IN,India,Gujarat,Lathi,21.7231,71.3884,516259
+IN,India,Gujarat,Jodhpur,21.9017,70.0327,380015
+IN,India,Haryana,Pinjaur,30.7987,76.9182,144417
+IN,India,Jharkhand,Chatra,24.2064,84.8708,521214
+IN,India,Jharkhand,Sahibganj,25.2442,87.6348,813202
+IN,India,Karnataka,Shimoga,13.9316,75.5679,577201
+IN,India,Karnataka,Karkala,13.2143,74.9923,574104
+IN,India,Madhya Pradesh,Dewas,22.9659,76.0553,123034
+IN,India,Madhya Pradesh,Jawad,24.5992,74.8626,384240
+IN,India,Madhya Pradesh,Ashta,23.0175,76.7221,364270
+IN,India,Maharashtra,Khamgaon,20.7074,76.5683,444303
+IN,India,Maharashtra,Khopoli,18.7856,73.3459,410203
+IN,India,Maharashtra,Sirur,19.0652,75.4275,412210
+IN,India,Maharashtra,Paithan,19.4751,75.3856,431107
+IN,India,Maharashtra,Gadhinglaj,16.2229,74.3501,416501
+IN,India,Maharashtra,Gangapur,20.0296,73.7156,431109
+IN,India,Maharashtra,Ashta,18.4519,76.7546,364270
+IN,India,Maharashtra,Mudkhed,19.1566,77.503,431806
+IN,India,Punjab,Sirhind,30.6432,76.3842,140406
+IN,India,Rajasthan,Jodhpur,26.2684,73.0059,112001
+IN,India,Rajasthan,Bikaner,28.0176,73.3149,334001
+IN,India,Rajasthan,Ganganagar,29.9201,73.875,335001
+IN,India,Rajasthan,Hanumangarh,29.5818,74.3294,335513
+IN,India,Rajasthan,Merta,26.6486,74.0341,341510
+IN,India,Tamil Nadu,Alangulam,8.86404,77.4994,627851
+IN,India,Tamil Nadu,Arcot,12.9057,79.319,632503
+IN,India,Tamil Nadu,Coimbatore,11.0056,76.9661,641 004
+IN,India,Tamil Nadu,Kuzhithurai,8.31792,77.1919,629163
+IN,India,Tamil Nadu,Thiruthani,13.1759,79.6164,631209
+IN,India,Uttar Pradesh,Jewar,28.122,77.5573,203135
+IN,India,Uttar Pradesh,Nanauta,29.7122,77.4173,247452
+IN,India,Uttar Pradesh,Charkhari,25.403,79.7488,210421
+IN,India,Uttar Pradesh,Mirzapur,27.6681,79.5591,231001
+IN,India,Uttar Pradesh,Bidhuna,26.8017,79.5083,206243
+IN,India,Uttar Pradesh,Kiratpur,29.5067,78.2061,246731
+IN,India,Uttar Pradesh,Deoranian,28.6299,79.4765,243203
+IN,India,Uttar Pradesh,Handia,25.3638,82.1865,221503
+IN,India,Uttarakhand,Naini Tal,29.3974,79.4469,263001
+IN,India,West Bengal,Lalgola,24.4224,88.2524,742148
+IN,India,West Bengal,Haora,22.5769,88.3186,700002
+IN,India,West Bengal,Memari,23.1765,88.0975,713146
+US,United States of America,Alabama,Auburn,32.6099,-85.4808,36830
+US,United States of America,Alabama,Bessemer,33.4018,-86.9544,35020
+US,United States of America,Alabama,Birmingham,33.5207,-86.8025,35201
+US,United States of America,Alabama,Center Point,31.7885,-88.03,36515
+US,United States of America,Alabama,Daphne,30.6035,-87.9036,36526
+US,United States of America,Arkansas,Bella Vista,36.4807,-94.2713,72714
+US,United States of America,California,Aliso Viejo,33.565,-117.727,92637
+US,United States of America,California,Altadena,34.1897,-118.131,91001
+US,United States of America,California,Alum Rock,37.3661,-121.827,95127
+US,United States of America,California,American Canyon,38.1749,-122.261,94503
+US,United States of America,California,Highland,34.1283,-117.209,92346
+US,United States of America,California,Hawthorne,33.9164,-118.353,90250
+US,United States of America,California,Brea,33.9167,-117.9,92821
+US,United States of America,California,Barstow Heights,34.8697,-117.056,92311
+US,United States of America,California,Woodland,38.6785,-121.773,95695
+US,United States of America,California,Modesto,37.6391,-120.997,95350
+US,United States of America,California,Winter Gardens,32.8312,-116.933,92040
+US,United States of America,Connecticut,East Norwalk,41.1057,-73.3985,6850
+US,United States of America,Florida,Crest View,27.9173,-82.4929,32536
+US,United States of America,Georgia,Belvedere Park,32.4607,-84.9041,30032
+US,United States of America,Georgia,St. Marys,30.7305,-81.5465,31558
+US,United States of America,Illinois,Libertyville,42.2831,-87.9531,60048
+US,United States of America,Illinois,Highland Park,42.1817,-87.8003,60035
+US,United States of America,Illinois,Romeoville,41.6475,-88.0895,60441
+US,United States of America,Illinois,Algonquin,42.1656,-88.2943,60102
+US,United States of America,Illinois,Crest Hill,38.5395,-90.077,62223
+US,United States of America,Illinois,Evanston,42.0411,-87.6901,60201
+US,United States of America,Indiana,Crawfordsville,40.0411,-86.8745,47933
+US,United States of America,Indiana,Lebanon,40.0484,-86.4692,46052
+US,United States of America,Indiana,Fishers,39.9556,-86.0139,46037
+US,United States of America,Maryland,Camp Springs,38.804,-76.9066,20744
+US,United States of America,Maryland,Arbutus,39.2546,-76.7,21227
+US,United States of America,Massachusetts,Wilmington,42.5465,-71.1737,1887
+US,United States of America,Massachusetts,Auburn,42.1945,-71.8356,1501
+US,United States of America,Minnesota,Eagan,44.8041,-93.1669,55121
+US,United States of America,Mississippi,Columbus,33.4957,-88.4273,39701
+US,United States of America,Mississippi,Oxford,31.268,-90.8982,39638
+US,United States of America,Missouri,Concord,36.2934,-89.7009,63126
+US,United States of America,Nevada,Carson City,39.1638,-119.767,89403
+US,United States of America,New Jersey,Hillside,40.7012,-74.2301,7205
+US,United States of America,New Jersey,Sayreville,40.4593,-74.361,8816
+US,United States of America,North Carolina,Winston-Salem,36.0999,-80.2442,27101
+US,United States of America,North Carolina,Holly Springs,34.7993,-76.9094,27540
+US,United States of America,Ohio,Parma,41.4048,-81.7229,44129
+US,United States of America,Pennsylvania,Allison Park,40.2295,-80.2423,15101
+US,United States of America,South Dakota,Sioux Falls,43.55,-96.7003,57101
+US,United States of America,Texas,Rowlett,32.9029,-96.5639,75088
+US,United States of America,Texas,Cleburne,32.3476,-97.3867,76033
+US,United States of America,Texas,Allen,33.1032,-96.6705,75013
+US,United States of America,Utah,Murray,40.6669,-111.888,84107
+US,United States of America,Washington,Lakewood,47.1718,-122.518,98496
+US,United States of America,Washington,Kennewick,46.2113,-119.137,99336
+US,United States of America,Washington,North Creek,47.8195,-122.176,98012
+US,United States of America,Washington,Puyallup,47.1854,-122.293,98371
+US,United States of America,Washington,Pasco,46.2396,-119.101,99302
